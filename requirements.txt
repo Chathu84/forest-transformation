@@ -1,0 +1,6 @@
+# Base MkDocs dependencies for this template
+mkdocs>=1.6
+mkdocs-material
+
+# Add each MkDocs plugin or extension referenced in mkdocs.yml below.
+# Example: mkdocs-awesome-plugin
